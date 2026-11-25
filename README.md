@@ -16,7 +16,8 @@ The dashboard provides clear visibility into capital inflows, profit generation,
 ---
 
 ## 📈 Dashboard Preview
-![Investment Dashboard](dashboard_overview.png)
+![Investment Dashboard]<img width="1279" height="717" alt="Dashboard-" src="https://github.com/user-attachments/assets/987bb37d-7ddf-49cd-9932-499bdc700dbe" />
+
 
 ---
 
